@@ -1,0 +1,6 @@
+@Livraria_Do_Zé_HostAddress = http://localhost:5110
+
+GET {{Livraria_Do_Zé_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
